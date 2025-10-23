@@ -1,4 +1,4 @@
-<img width="3000" height="2003" alt="image" src="https://github.com/user-attachments/assets/51f60e7d-c874-4dc9-b78b-06b18a10fd11" /># something 
+# something 
 ## something else
 ### idek
 ```
